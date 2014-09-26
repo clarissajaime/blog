@@ -1,5 +1,3 @@
 class Page
 
-  test
-  
 end
