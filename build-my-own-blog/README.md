@@ -1,3 +1,11 @@
+#Pages with a header, article & timestamp
+
+
+
+
+
+
+
 # Build your own blog
 
 Hi folks,
