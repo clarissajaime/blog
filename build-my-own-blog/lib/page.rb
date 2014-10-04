@@ -1,6 +1,12 @@
-class Page
+require 'pry'
 
-  def set_header(string)
-    @header = string
-  end
+class Page
+	attr_accessor :header, :article, :timestamp
+
+	def initialize()
+		@header = ""
+		@article = ""
+	end 
 end
+
+

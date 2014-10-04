@@ -1,10 +1,19 @@
-#Pages with a header, article & timestamp
+Pages have a:
+
+- header
+- timestamp (automatic)
+- article (textual content)
+
+Create new pages in the console.
+
+Each should be saved in the textbook csv. 
+
+Textbook file manage saving and opening.
 
 
 
 
-
-
+---
 
 # Build your own blog
 
